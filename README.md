@@ -1,1 +1,1 @@
-# Machine-Learnign-in-Finance
+# Machine-Learning-in-Finance
